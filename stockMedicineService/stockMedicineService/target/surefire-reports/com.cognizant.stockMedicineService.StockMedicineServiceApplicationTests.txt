@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.stockMedicineService.StockMedicineServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.25 s - in com.cognizant.stockMedicineService.StockMedicineServiceApplicationTests

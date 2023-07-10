@@ -1,0 +1,6 @@
+com\cognizant\stockMedicineService\model\Medicine.class
+com\cognizant\stockMedicineService\service\MedicineStockServiceImpl.class
+com\cognizant\stockMedicineService\controller\StockController.class
+com\cognizant\stockMedicineService\dao\MedicineStockDAO.class
+com\cognizant\stockMedicineService\service\MedicineStockService.class
+com\cognizant\stockMedicineService\StockMedicineServiceApplication.class

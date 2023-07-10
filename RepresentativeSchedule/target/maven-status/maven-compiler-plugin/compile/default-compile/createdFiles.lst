@@ -1,0 +1,12 @@
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Model\RepSchedule.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Service\DoctorService.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\feignClient\AuthClient.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\RepresentativeScheduleApplication.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Service\RepScheduleService.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Controller\RepSchedController.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Model\AuthResponse.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Model\UserData.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Service\RepService.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Model\StartDate.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\Model\Doctor.class
+com\cognizant\pharmacymanagement\RepresentativeSchedule\feignClient\StockFeignClient.class

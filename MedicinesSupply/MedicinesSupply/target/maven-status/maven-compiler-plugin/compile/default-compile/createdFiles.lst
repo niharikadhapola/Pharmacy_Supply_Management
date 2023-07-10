@@ -1,0 +1,10 @@
+com\cognizant\pharmacymanagement\MedicinesSupply\model\Medicine.class
+com\cognizant\pharmacymanagement\MedicinesSupply\service\PharmacyMedicineSupplyService.class
+com\cognizant\pharmacymanagement\MedicinesSupply\controller\MedicineSupplyController.class
+com\cognizant\pharmacymanagement\MedicinesSupply\feingClient\StockFeignClient.class
+com\cognizant\pharmacymanagement\MedicinesSupply\model\PharmacyMedicineSupply.class
+com\cognizant\pharmacymanagement\MedicinesSupply\MedicineSupplyApplication.class
+com\cognizant\pharmacymanagement\MedicinesSupply\feingClient\AuthClient.class
+com\cognizant\pharmacymanagement\MedicinesSupply\model\AuthResponse.class
+com\cognizant\pharmacymanagement\MedicinesSupply\model\MedicineDemand.class
+com\cognizant\pharmacymanagement\MedicinesSupply\model\UserData.class

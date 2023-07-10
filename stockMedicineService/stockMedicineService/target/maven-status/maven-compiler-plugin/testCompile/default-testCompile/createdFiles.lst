@@ -1,0 +1,3 @@
+com\cognizant\stockMedicineService\controller\StockControllerTest.class
+com\cognizant\stockMedicineService\service\MedicineStockServiceImplTest.class
+com\cognizant\stockMedicineService\StockMedicineServiceApplicationTests.class

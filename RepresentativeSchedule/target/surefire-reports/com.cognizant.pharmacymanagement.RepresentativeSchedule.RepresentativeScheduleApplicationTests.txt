@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.pharmacymanagement.RepresentativeSchedule.RepresentativeScheduleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.166 s - in com.cognizant.pharmacymanagement.RepresentativeSchedule.RepresentativeScheduleApplicationTests

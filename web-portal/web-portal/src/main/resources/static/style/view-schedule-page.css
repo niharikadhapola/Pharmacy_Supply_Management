@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+
+body{
+	background-color: #ADD8E6;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+
+.card-holder{
+  width: 100vw;
+  min-height: 100vh;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.card{
+  background: white;
+  padding: 20px;
+  width: 20%;
+  height:35%;
+  box-shadow: 2px 2px;
+  max-width: 500px;
+  text-align: center;
+  font-family: Arial;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}

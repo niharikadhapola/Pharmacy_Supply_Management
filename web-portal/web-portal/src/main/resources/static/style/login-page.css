@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+.login,
+.image {
+	min-height: 100vh;
+}
+
+.bg-image {
+	background-image: url("https://www.dunnhumby.com/resources/blog/covid-19/en/in-store-pharmacy-back-to-a-different-future/");
+	background-size: cover;
+	background-position: center center;
+}
